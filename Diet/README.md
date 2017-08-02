@@ -1,8 +1,8 @@
 # Diet
-Objectif de la diet : 
+Objectif de la diète : 
 
   - Proteines : 160g
   - Lipides : 70g
   - Glucides : 300g
  
-Dans le dossier diet il y a un exemple de diet journalière.
+ Le fichier "diete.xls" montre l'exemple d'une diète journalière.
