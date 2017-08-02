@@ -28,8 +28,8 @@ Les entrainements sont découpés en 4 groupes :
 | Dimanche | Repos |
 
 
-   [Dos/Bras]: <..\Entrainement\Dos-bras>
-   [Ischios]: <..\Entrainement\Ischios>
-   [Pecs/Epaules]: <..\Entrainement\Pecs-Epaules>
-   [Quadris]: <..\Entrainement\Quadris>
+   [Dos/Bras]: <../Entrainement/Dos-bras>
+   [Ischios]: <../Entrainement/Ischios>
+   [Pecs/Epaules]: <../Entrainement/Pecs-Epaules>
+   [Quadris]: <../Entrainement/Quadris>
 
