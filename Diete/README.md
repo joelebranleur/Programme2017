@@ -1,4 +1,4 @@
-# Diet
+# Diète
 Objectif de la diète : 
 
   - Proteines : 160g
