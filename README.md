@@ -7,6 +7,7 @@ Les entrainements sont découpés en 4 groupes :
   - Ischios
   - Pecs/Epaules
   - Quadris
+
 Avec 6 séances par semaine
 
 ### Diet
